@@ -3,6 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/qiubai-lab/deepseek-protecto?style=social)](https://github.com/qiubai-lab/deepseek-protecto/stargazers) [![GitHub forks](https://img.shields.io/github/forks/qiubai-lab/deepseek-protecto?style=social)](https://github.com/qiubai-lab/deepseek-protecto/network) [![GitHub issues](https://img.shields.io/github/issues/qiubai-lab/deepseek-protecto.svg)](https://github.com/qiubai-lab/deepseek-protecto/issues)
 
 ## 1.加入红客联盟487分盟保卫 DeepSeek ！！
+> [下载地址](https://github.com/qiubai-lab/deepseek-protector/releases)
 
 1.项目预览
 
